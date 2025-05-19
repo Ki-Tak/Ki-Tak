@@ -24,8 +24,7 @@
 
  #### 세종대학교 비전공자를 위한 파이썬 디버깅 시각화 홈페이지 제작
  - Private Repo
- - [[배포 링크]](https://sei.kro.kr)
- - [[추후 변경 예정 링크]](https://sei-edu.com)
+ - [[배포 링크]](https://sei-edu.com)
  - 세종대학교 비전공자를 위한 디버깅 시각화 홈페이지 제작 
 <!--
 **Ki-Tak/Ki-Tak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
