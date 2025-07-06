@@ -17,8 +17,13 @@
 
 ## 🖥️ 진행 중인 프로젝트 
 
+#### CheatKey: 사기 방지 2차 플랫폼 앱
+- [[깃허브 바로가기]](https://github.com/Central-MakeUs/CheatKey-Front)
+
 #### Kampus: 유학생 커뮤니티 하이브리드 앱
 - [[깃허브 바로가기]](https://github.com/IT-Cotato/10th-Kampus-FE)
+
+## 🖥️ 진행한 프로젝트 
 
 #### 세종대학교 콘텐츠 소프트웨어학과 홈페이지 제작
 - Private Repo
