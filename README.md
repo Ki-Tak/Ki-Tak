@@ -3,8 +3,9 @@
 
 ## 💻 활동
 + 대학생 연합 IT 동아리 Cotato 10기 FE 파트, 기획팀원 (2024.09 ~ 2025.02)
-+ 대학생 연합 IT 동아리 Cotato 11기 FE 파트장, 기획팀원 (2025.02 ~)
-+ Central Makeus Challenge (CMC) 17th Web 파트 (2025.05 ~)
++ 대학생 연합 IT 동아리 Cotato 11기 FE 파트장, 기획팀원 (2025.02 ~ 2025.08)
++ Central Makeus Challenge (CMC) 17th Web 파트 (2025.05 ~ 2025.08)
+
 
 ## 🎖️ 수상
 + 세종대학교 소프트웨어학과 2024-2 학술제 1등 (2024.11)
@@ -19,9 +20,6 @@
 
 #### CheatKey: 사기 방지 2차 플랫폼 앱
 - [[깃허브 바로가기]](https://github.com/Central-MakeUs/CheatKey-Front)
-
-#### Kampus: 유학생 커뮤니티 하이브리드 앱
-- [[깃허브 바로가기]](https://github.com/IT-Cotato/10th-Kampus-FE)
 
 ## 🖥️ 진행한 프로젝트 
 
